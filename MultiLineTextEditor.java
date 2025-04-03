@@ -178,7 +178,7 @@ public class MultiLineTextEditor {
                 System.out.println(lines.get(i));
             }
         }
-        System.out.println("-------------------------");
+        System.out.println("---------------------------");
     }
 
     public static void main(String[] args) {
